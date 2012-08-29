@@ -98,7 +98,7 @@ Utilities for the Koji system
 
 %package web
 Summary: Koji Web UI
-Group: Applications/Internet
+Group: System/Configuration/Packaging
 Requires: httpd
 Requires: apache-mod_wsgi
 Requires: apache-mod_auth_kerb

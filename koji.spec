@@ -203,3 +203,11 @@ if [ $1 = 0 ]; then
   /sbin/service kojira stop &> /dev/null || :
   /sbin/chkconfig --del kojira
 fi
+
+
+%changelog
+* Wed Aug 29 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.7.0-1
++ Revision: 816018
+- Import koji
+- Import koji
+

@@ -6,7 +6,7 @@ License: LGPLv2 and GPLv2+
 # koji.ssl libs (from plague) are GPLv2+
 Summary: Build system tools
 Group: System/Configuration/Packaging
-URL: http://fedorahosted.org/koji
+URL: https://fedorahosted.org/koji
 Patch0: fedora-config.patch
 
 Source: https://fedorahosted.org/released/koji/koji-%{version}.tar.bz2
